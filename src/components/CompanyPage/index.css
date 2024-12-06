@@ -1,0 +1,12 @@
+
+.company_page{
+    display: flex;
+    justify-content: center;
+
+}
+.page_info{
+    margin: 5vh;
+}
+.conditions_img{
+    margin: 5vh;
+}

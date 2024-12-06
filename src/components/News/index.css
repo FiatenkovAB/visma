@@ -1,0 +1,18 @@
+.news_page{
+    max-width: 100%;
+    height: auto;
+    word-break: break-all;
+    img{
+        width: 80%;
+    }
+    h1{
+        text-align: center;
+    }
+}
+.columns{
+    display: flex;
+    justify-content: space-evenly;
+    width: auto;
+    margin: 2%;
+    gap: 1%;
+}

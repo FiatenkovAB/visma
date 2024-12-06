@@ -1,0 +1,26 @@
+.servicesPages{
+    display: flex;
+    margin: 5%;
+    justify-content: center;
+    line-height: 5vh;
+    button{
+        border-radius: 5vh;
+        background-color: rgb(112, 169, 173);
+        color: white;
+        width: 70%;
+        height: 45%;
+    }
+}
+.servicestext{
+    width: 40%;
+    justify-content: center;
+}
+.servicesBtn{
+    display: grid;
+    grid-template-areas:'a a' 'b b ';
+    margin-bottom: 30vh;
+    width: 70vh;
+    height: 7px;
+    justify-content: center;
+
+}
